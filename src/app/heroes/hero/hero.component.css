@@ -1,0 +1,13 @@
+h1 {
+  font-size: 50px;
+}
+
+td {
+  color: grey;
+  font-size: 1rem;
+}
+dd {
+  padding-left: 10px;
+  font-weight: bold;
+  font-size: 2rem;
+}
